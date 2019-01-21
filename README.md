@@ -67,4 +67,4 @@ This software is released under the MIT license.
 
 >  A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
 
-Refer to the [LICENSE](https://github.com/Hiroko103/game-of-life-simulation/blob/master/LICENSE) file for the complete text.
+Refer to the [LICENSE](https://github.com/Hiroko103/custom-filesystem/blob/master/LICENSE) file for the complete text.
