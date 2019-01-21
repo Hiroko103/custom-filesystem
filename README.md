@@ -59,7 +59,7 @@ This is not much by no means, but it can be increased by changing `FILE_TABLE_SI
 
 ## Benchmarking
 
-If you create a file called 'benchmark' through the FTP interface, it will create a file with the size of around 6,5 MB. During the operation, it will print log messages about how much data was transferred in a given time.
+If you create a file called 'benchmark' through the FTP interface, it will create a file with the size of around 6,5 MB. During the operation, it will print log messages about how much data was transferred in a given time. At the end of the operation, the benchmark file is automatically removed.
 
 ## License
 
